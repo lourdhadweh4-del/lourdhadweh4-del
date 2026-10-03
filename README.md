@@ -7,6 +7,7 @@ Computer science student exploring **Java, object-oriented programming, and game
 | Project | What you'll find | Technology |
 | --- | --- | --- |
 | [OneJob](https://github.com/lourdhadweh4-del/OneJob-Unity-Game) | A 2D pizza delivery game for the Unity NYC Summer Jam 2026; includes the Unity project and setup guide. | Unity · C# |
+| [Blackjack Game](https://github.com/lourdhadweh4-del/blackjack-java) | A playable desktop card game with custom-drawn cards, simulated betting, and dealer logic; Programming II final project. | Java · Swing |
 | [Java OOP Labs](https://github.com/lourdhadweh4-del/java-oop-labs) | Coursework exploring classes, inheritance, constructors, and object interaction. | Java |
 | [Java Programming Practice](https://github.com/lourdhadweh4-del/java-programming-practice) | Exercises covering arrays, methods, searching, and introductory OOP. | Java |
 
